@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33167" started-at="2019-10-04T20:07:25 ICT" finished-at="2019-10-04T20:07:58 ICT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33167" started-at="2019-10-04T20:07:25 ICT" finished-at="2019-10-04T20:07:58 ICT">
+      <class name="CRM.CRM">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:CRM.CRM@5e57643e]" name="beforeTest" is-config="true" duration-ms="16478" started-at="2019-10-04T20:07:25 ICT" finished-at="2019-10-04T20:07:42 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:CRM.CRM@5e57643e]" name="Login" duration-ms="5214" started-at="2019-10-04T20:07:42 ICT" finished-at="2019-10-04T20:07:47 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="addcampaign()[pri:1, instance:CRM.CRM@5e57643e]" name="addcampaign" duration-ms="3228" started-at="2019-10-04T20:07:47 ICT" finished-at="2019-10-04T20:07:50 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addcampaign -->
+        <test-method status="PASS" signature="createProduct()[pri:2, instance:CRM.CRM@5e57643e]" name="createProduct" duration-ms="1279" started-at="2019-10-04T20:07:50 ICT" finished-at="2019-10-04T20:07:51 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createProduct -->
+        <test-method status="PASS" signature="SearchProduct()[pri:3, instance:CRM.CRM@5e57643e]" name="SearchProduct" duration-ms="660" started-at="2019-10-04T20:07:51 ICT" finished-at="2019-10-04T20:07:52 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchProduct -->
+        <test-method status="PASS" signature="EditProduct()[pri:4, instance:CRM.CRM@5e57643e]" name="EditProduct" duration-ms="6249" started-at="2019-10-04T20:07:52 ICT" finished-at="2019-10-04T20:07:58 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EditProduct -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:CRM.CRM@5e57643e]" name="afterTest" is-config="true" duration-ms="1" started-at="2019-10-04T20:07:58 ICT" finished-at="2019-10-04T20:07:58 ICT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- CRM.CRM -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
